@@ -8,7 +8,7 @@
         <strong>Mateus Amaral</strong>
         <p>
           <img src="icons/level.svg" alt="level"/>
-          Level 1
+           Level 1
           </p>
       </div>
     </div>
