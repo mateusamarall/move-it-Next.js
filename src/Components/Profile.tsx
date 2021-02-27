@@ -6,7 +6,7 @@ import styles from '../styles/Components/Profile.module.css';
    return(
 
     <div className={styles.profileContainer}>
-      <img src="https://github.com/mateusamarall.png" alt="profile-icon"/>
+      <img src="https://github.com/omateusamaral.png" alt="profile-icon"/>
       <div>
         <strong>Mateus Amaral</strong>
         <p>
